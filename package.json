@@ -1,6 +1,9 @@
 {
   "name": "citybank_project",
   "version": "0.1.0",
+  "engines": {
+    "node": "^16.13.1"
+  },
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.1.1",
@@ -17,7 +20,7 @@
     "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
-  },
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -43,4 +46,6 @@
       "last 1 safari version"
     ]
   }
+
+ 
 }
