@@ -2,6 +2,9 @@
   "name": "citybank_project",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.13.1"
+  },
   "dependencies": {
     "@react-pdf/renderer": "^2.1.1",
     "@testing-library/jest-dom": "^5.15.1",
