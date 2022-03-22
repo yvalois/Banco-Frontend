@@ -6,6 +6,7 @@ function Principal() {
 if(usuario_storage.rol==1) {
     window.location.href="/dashboardadmin";
   }
+
   return (
   <body >
     <BarraSuperior/> 
